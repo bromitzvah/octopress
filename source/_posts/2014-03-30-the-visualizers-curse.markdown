@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-According to 'The visualizer's curse' theory people with stronger visualization powers tend to be more possesive toward their partners.
+According to 'The visualizer's curse' theory people with stronger visualization powers tend to be more possessive toward their partners.
